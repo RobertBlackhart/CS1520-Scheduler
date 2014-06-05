@@ -1,0 +1,11 @@
+td, th {
+   text-align: center;
+   padding: 5px;
+}
+table {
+    margin: auto;
+}
+#Answer {
+    margin-top: 10px;
+    text-align: center;
+}
